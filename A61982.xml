@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement to Dr. Burnet's letters relating to his travels through Switzerland, Italy, Germany, &amp;c. In the years 1685, and 1686. Being further remarks on Switzerland, and Italy, &amp;c. Written by a nobleman of Italy, and communicated to the author. Which he has since thought fit to publish in vindication of some passages in the letters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61982</idno>
+            <idno type="STC">Wing S6184</idno>
+            <idno type="STC">ESTC R219141</idno>
+            <idno type="EEBO-CITATION">99830660</idno>
+            <idno type="PROQUEST">99830660</idno>
+            <idno type="VID">35113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2080:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement to Dr. Burnet's letters relating to his travels through Switzerland, Italy, Germany, &amp;c. In the years 1685, and 1686. Being further remarks on Switzerland, and Italy, &amp;c. Written by a nobleman of Italy, and communicated to the author. Which he has since thought fit to publish in vindication of some passages in the letters.</title>
+               </titleStmt>
+               <extent>10, 13-24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Abraham Acher, bookseller by the Exchange,</publisher>
+                  <pubPlace>Rotterdam :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text appears continuous despite pagination.</note>
+                  <note>Copy tightly bound, affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burnet, Gilbert, 1643-1715. --  Some letters --  Early works to 1800.</term>
+               <term>Europe --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35113:1" rendition="simple:additions"/>
+            <p>A SUPPLEMENT TO <hi>Dr.</hi> BURNET's LETTERS Relating to his TRAVELS through <hi>Switzerland, Italy, Germany,</hi> &amp;c. In the Years 1685, and 1686.</p>
+            <p>Being Further REMARKS On <hi>Switzerland,</hi> and <hi>Italy,</hi> &amp;c.</p>
+            <p>Written by <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nobleman of <hi>Italy,</hi> and Communi<g ref="char:EOLhyphen"/>cated to the Author.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich he has ſince thought fit to Publiſh in Vin<g ref="char:EOLhyphen"/>dication of ſome Paſſages in the <hi>LETTERS.</hi>
+            </p>
+            <p>ROTTERDAM, <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nted by <hi>Abraham Acher,</hi> Bookſeller by the <hi>Ex<g ref="char:EOLhyphen"/>change,</hi> 1687.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:35113:2"/>
+            <head>The Contents.</head>
+            <p>Remarques upon <hi>Switzerland,</hi> the <hi>Griſons</hi> Countrey, the <hi>Bailiage</hi> of <hi>Lugane,</hi> the <hi>Lakes,</hi> the Dutchy of <hi>Fer<g ref="char:EOLhyphen"/>rara,</hi> the Eſtate of <hi>Bolognia,</hi> the Countrey of the <hi>Great Duke</hi> of <hi>Tuſcany;</hi> with particular Obſervations on the <hi>Temporal Government</hi> of the POPE, and the <hi>Reduction</hi> of the Intereſt due by the Monks at <hi>Rome,</hi> and of the Avarice of the <hi>Jeſuits</hi> and <hi>Prieſts.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:35113:2"/>
+            <head>A SUPPLEMENT Containing Some <hi>Remarks,</hi> that have been ſent to me by a <hi>Perſon</hi> of Quality.</head>
+            <p>
+               <hi>A Perſon</hi> of great Rank, that is of <hi>Italian</hi> ex<g ref="char:EOLhyphen"/>traction, and that by conſequence knows the <hi>Countrey</hi> well, having ſpent much of his time in it, bad heard that I was giving the World an account of the <hi>Reflections</hi> that I had made on <hi>the preſent State of Italy,</hi> and upon that he writ the following <hi>Paper</hi> to one of his Friends, to be communicated to me; for I have not the honour of any Commerce with himſelf: The <hi>Obſervations</hi> that he had made, a<g ref="char:EOLhyphen"/>greed ſo exactly with my own, that I thought it would be no ſmall Advantage towards the ſupporting the Cre<g ref="char:EOLhyphen"/>dit of thoſe that I had made, to find them confirmed by ſo extraordinary a <hi>Perſon,</hi> whoſe <hi>Character</hi> (as thoſe who know him well have aſſured me) is ſo un<g ref="char:EOLhyphen"/>diſputed, that if I durſt name him, this alone would <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rve to eſtabliſh the belief of the moſt <hi>critical</hi> parts of <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Letters</hi> in the minds of all that ſhould read his <hi>Paper:</hi> But ſince I cannot adventure on this, without <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>btaining his Leave, and ſince he is now at ſuch a di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lance, that it is not eaſie to g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t his Friend to write to <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>im, or to receive an Anſwer from him time enough,
+<pb n="4" facs="tcp:35113:3"/> therefore I have added this <hi>Memorial</hi> in the <hi>Lan<g ref="char:EOLhyphen"/>guage</hi> in which he writ it. Which I thought fitter than to give a <hi>Tranſlation</hi> of it into <hi>Engliſh.</hi> There are <hi>two</hi> Particulars in which He and I differ, and is ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great a Variety of <hi>Obſervations,</hi> that are ſo <hi>Cri<g ref="char:EOLhyphen"/>tical,</hi> and ſo much out of the Common road, it wil not appear ſtrange, if there ſhould be ſome diſagree<g ref="char:EOLhyphen"/>ment, when he mentions the <hi>Tax</hi> that the <hi>Pope</hi> has laid on the <hi>Corn;</hi> he does not add one thing which I mention, and that is, that the <hi>Meaſure,</hi> by which th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Pope ſells,</hi> is by a fifth part leſs than that by which he <hi>buys:</hi> The other is more conſiderable; for in the Account that he gives of the preſent <hi>Pope</hi>'s break<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured"
+                    resp="#MURP"
+                    extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g in upon the ſettlement of the <hi>Bank,</hi> tho it is upon the matter very near the ſame with that which I give, y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t there is a difference of ſome Importance as to the manner of doing it; but as to that, all I can ſay, is, that the firſt Account I had of that <hi>Tranſaction,</hi> was the ſame that is in this <hi>Gentleman's</hi> Paper; but afterwards I had occaſion to talk of this matter very Copiouſly with <hi>one,</hi> thas has lived many years in the <hi>Popes</hi> Dominions, and that he has dealt much is thoſe Affairs; be has now a <hi>Character</hi> upon him, and ſo it is not expedient to name him: It was from him that I had the particular recital of this matter, and therefore I thought it ſurer to go upon the Information that I had from him, than upon the general Report that all Strangers may find at <hi>Rome.</hi> This <hi>Paper</hi> had been more copious, if the Perſon that writ it, had not been reſtrained by ſome particular Conſiderations fr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſaving any thing relating to the <hi>Government</hi> of <hi>Venice.</hi>
+            </p>
+            <div type="remarks">
+               <pb n="5" facs="tcp:35113:3"/>
+               <head>REMARKS Upon <hi>SWITZERLAND.</hi>
+               </head>
+               <p>IT is very ſurpriſing when one comes out of <hi>France,</hi> (which is an Extraordinary good Country) into <hi>Switzerland,</hi> which is not near ſo fertil, and yet to ſee ſo great a difference between the <hi>People</hi> of thoſe two Countries. The <hi>People</hi> in <hi>France,</hi> and eſpecially the <hi>Pea<g ref="char:EOLhyphen"/>ſants,</hi> are very poor, and moſt of them reduced to great Miſery and Want. The <hi>People</hi> in <hi>Swit<g ref="char:EOLhyphen"/>zerland</hi> cannot be ſaid to be very Rich; but yet there are very few, even amongſt the <hi>Peaſants</hi> themſelves that are miſerably poor; the moſt part of them have enough to live upon, from their Labour, and the Fruits of the Earth. Eve<g ref="char:EOLhyphen"/>ry where in <hi>France,</hi> even in the beſt <hi>Cities,</hi> there are Swarms of <hi>Beggers;</hi> and yet ſcarce any to be ſeen throughout all <hi>Switzerland.</hi> The Houſes of the <hi>Peaſants,</hi> or Country-people in <hi>France</hi> are extreamly mean, and in them no <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ther Furniture to be found beſides poor naſty Beds, ſtraw Chairs, and Plates and Diſhes of Wood and Earth: In <hi>Switzerland</hi> the <hi>Peaſants</hi> 
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ave then Houſes furniſhed with good Fea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er-beds, good Chairs, and other Houſhold-<gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uff for their Convenience, as well as their Neceſſity; their Windows are all of Glaſs, al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ays kept mended and whole, and their Lin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n very neat and white, and as well for their <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing as their Tables.</p>
+            </div>
+            <div type="remarks">
+               <pb facs="tcp:35113:4"/>
+               <head>Of the <hi>GRISONS</hi> Country.</head>
+               <p>THe <hi>Griſons</hi> Country is much more Barren than <hi>Switzerland,</hi> becauſe 'tis wholy upon the <hi>Mountains,</hi> which produce nothing at all; yet notwithſtanding (all Exceſs and Luxury being baniſhed from amongſt them, and the Inhabitants being extreamly Laborious) there are none to be ſeen there that are very poor and needy; but they live at Eaſe, and there are a great many Gentry of good Eſtates. Their <hi>Government</hi> is altogether <hi>Popular;</hi> there are but three or four Royalties belonging to No<g ref="char:EOLhyphen"/>bility in all the Country. All the reſt of their Lands are in Demeane, which may yet well be called Royalties too, becauſe exempt from all dues and payments whatſoever. There is nothing at all to be pay'd for bringing into the Country any ſort of Goods or Merchandiſes, or for exporting of them thence; every one there fully enjoys the Fruit of his own Labours, and the revenues of his Land; although the Wine they drink is brought upon Horſes four or five days Journey, yet they have it cheaper there than in moſt parts of <hi>Italy</hi> or <hi>France,</hi> where it ſo plentifully grows. There are <hi>Villages</hi> upon the very tops of the <hi>Mountains,</hi> con<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting of 250. and 200. Houſes apiece; and altho' they have no Corn or grain that grows there, and but very little Graſs, yet the <hi>Pea<g ref="char:EOLhyphen"/>ſants</hi> keep three or four hundred Horſes which they imploy to carry goods and Merchandiſes,
+<pb n="7" facs="tcp:35113:4"/> which turns to ſo good account that they live very well, and want nothing either for the Ne<g ref="char:EOLhyphen"/>ceſſity of Convenience of life. The <hi>Inns</hi> upon the Mountains are very good; and there is al<g ref="char:EOLhyphen"/>ways to be had, beſides good Bread and Wine, great quantity of Game and Veniſon, according to the Seaſon of the Year, good Trouts, very good Chambers, and Beds after the manner of the Country. When you leave the <hi>Griſons</hi> Country, and are come into the Country of <hi>Chavenne,</hi> the People begin to ſpeak broken <hi>Italian:</hi> altho' this latter is a more fertil Coun<g ref="char:EOLhyphen"/>try, yet the Inhabitants and <hi>Peaſants</hi> do not live ſo well as in the <hi>Griſons</hi> Country, for that the Natives are more ſlothful and lazy: and here again there are abundance of poor People, as you will find in all parts of <hi>Italy.</hi>
+               </p>
+            </div>
+            <div type="remarks">
+               <head>Of the <hi>Bailiage</hi> of <hi>LUGANE.</hi>
+               </head>
+               <p>THere are on the other ſide of the Moun<g ref="char:EOLhyphen"/>tains four <hi>Bailiages,</hi> which where formerly part of the <hi>Dutehy of Milan; Lewis</hi> XII. when he loſt that <hi>Dutchy,</hi> gave theſe <hi>Bailiages</hi> to ſome of the <hi>Switz Cantons.</hi> Theſe <hi>Bailiages</hi> are cal<g ref="char:EOLhyphen"/>led, <hi>Lugane, Lucarno, Mendris,</hi> and <hi>Belinſton:</hi> I ſhall only take notice of the <hi>Bailiage</hi> of <hi>Lugane,</hi> which contains ninety nine <hi>Villages:</hi> The Ter<g ref="char:EOLhyphen"/>ritories of this <hi>Bailiage</hi> and of the others, are not near ſo good as that of <hi>Milan,</hi> to which it <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oyns; yet the <hi>Villages</hi> of this <hi>Bailiage</hi> are very <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>opulous; the Lands is very fruitful, becauſe it is <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll cultivated, and all the Inhabitants live con<g ref="char:EOLhyphen"/>tented
+<pb n="8" facs="tcp:35113:5"/> and well; there are no <hi>Beggars</hi> amongſt them, nor hardly any Object of Miſery and Want: their Houſes are all good, well built, and kept in good repair. The Territory of <hi>Milan</hi> is certainly one of the beſt in all <hi>Italy;</hi> it produceth Wine, Corn and Oyl in abun<g ref="char:EOLhyphen"/>dance, very great quantity of Silk, and (ge<g ref="char:EOLhyphen"/>nerally ſpeaking) all ſorts of Fruits; there is alſo excellent Paſture for Cat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, and yet the <hi>Peaſants</hi> there do not live ſo well by much as in the <hi>Bailiage</hi> of <hi>Lugane;</hi> for there is a great deal of Land that lies unmanur'd, and the Country is not near ſo populous as in <hi>Lugane.</hi> There can be no other Reaſon given for this Difference but that <hi>Milan</hi> is under the Domi<g ref="char:EOLhyphen"/>nion of <hi>Spain:</hi> That the <hi>People</hi> are loaden with Impoſts, Subſidies and Taxes, which makes them very poor; whereas the <hi>People</hi> of <hi>Lugane</hi> are under the <hi>Government</hi> of <hi>Switzerland,</hi> who put no Taxes or Subſidies upon them.</p>
+            </div>
+            <div type="remarks">
+               <head>Remarks upon the <hi>LAKES.</hi>
+               </head>
+               <p>I Do not know that in the Kingdom of <hi>France,</hi> as it was thirty years ſince, there were any <hi>Lakes,</hi> except perhaps in the Mountains of <hi>Dau<g ref="char:EOLhyphen"/>phine.</hi> From the <hi>Lake</hi> of <hi>Jour</hi> to the <hi>Lake</hi> of <hi>Garde,</hi> which is at <hi>Deſeneſan,</hi> between <hi>Breſſe</hi> and <hi>Veronne.</hi> In the Territories of <hi>Venice,</hi> there are a great number of <hi>Lakes;</hi> one of the moſt conſiderable is that of <hi>Geneva;</hi> then there is the Lake of <hi>Newchattel,</hi> the Lake <hi>d'Yverdun,</hi> the Lake of <hi>Morat,</hi> the Lake of <hi>Bienne,</hi> the
+<pb n="9" facs="tcp:35113:5"/> Lake of <hi>Quinti,</hi> the Lake of <hi>Lucerne,</hi> the Lake of <hi>Conſtance,</hi> the Lake of <hi>Valeſtat,</hi> and many others in the Mountains of <hi>Switzerland.</hi> There is on the other ſide the Mountains a great and conſiderable Lake, called <hi>Come,</hi> alſo the Lake of <hi>Lugane,</hi> the Lake <hi>Maj r,</hi> which is above 60 miles long, and likewiſe the Lake <hi>de Garde.</hi> All theſe <hi>Lakes</hi> are repleniſh'd with moſt ex<g ref="char:EOLhyphen"/>cellent Fiſh, and particularly <hi>Trouts;</hi> but in the Lake <hi>de Garde</hi> there is found an admirable Fiſh, called <hi>Carpion,</hi> which is far more deli<g ref="char:EOLhyphen"/>cate than either <hi>Trout</hi> or <hi>Salmon,</hi> but they are not ſo great; for thoſe of the largeſt ſize do not weigh above fifteen pounds. I do not think that in any part of <hi>Europe</hi> there are ſo many fine <hi>Lakes</hi> to be found in ſo narrow a Compaſs, as theſe which I have here mentioned.</p>
+            </div>
+            <div type="remarks">
+               <head>Concerning the Dutchy of <hi>FERRARA.</hi>
+               </head>
+               <p>THe <hi>Duke of Ferrara</hi> hath always been but a little <hi>Prince,</hi> becauſe his <hi>Dominions</hi> are not very great; yet there have been ſeveral of the ſaid <hi>Dukes</hi> for above 150. years ago, and ſince, that have made a handſome Figure, and held a conſiderable Rank amongſt the <hi>Princes of Italy.</hi> The Country was formerly very popu<g ref="char:EOLhyphen"/>lous, and the Lands being fertil, and well cul<g ref="char:EOLhyphen"/>tivated: the Revenue of the <hi>Prince</hi> were con<g ref="char:EOLhyphen"/>ſiderable, and he kept a good Court. But ſince that <hi>Dutchy</hi> is devolved upon the <hi>See</hi> of <hi>Rome,</hi> by the Death of the laſt <hi>Duke,</hi> who dyed with<g ref="char:EOLhyphen"/>out Iſſue Male, the Country is almoſt depo<g ref="char:EOLhyphen"/>pulated:
+<pb n="10" facs="tcp:35113:6"/> the moſt part of the Lands are deſo<g ref="char:EOLhyphen"/>late; and for ſeveral Years laſt paſt the <hi>Dutchy</hi> is infected with Diſeaſes, purely for want of Inhabitants. There were formly in the time of the Dukes of <hi>Ferrara,</hi> more than one hundred thouſand <hi>People,</hi> and at preſent there are not 15000. The Graſs grows in the Streets, and moſt of the Houſes are void.</p>
+               <p>
+                  <hi>Poleſino</hi> is one of the beſt parts of <hi>Italy;</hi> and that part of it which is poſſeſſed by the <hi>Venetians,</hi> is very well cultivated and populous; and 'tis one of the beſt of their ſmall Princes. As ſoon as you paſs the great Arm of the River <hi>Po,</hi> which is called the <hi>Lagoſcouro,</hi> which ſe<g ref="char:EOLhyphen"/>parates that part of the <hi>Poliſino</hi> which be<g ref="char:EOLhyphen"/>longs to the <hi>Venetians,</hi> from that which belongs to the <hi>Pope,</hi> although the Land and Country is the very fame, yet the moſt part of thoſe Lands of the <hi>Poleſino,</hi> which belongs to the <hi>Eccleſiaſtical State,</hi> are deſolate and waſt: the Graſs lies withered and rotten upon the ground, becauſe there is no body takes care to mow it; and in paſſing through great Villages, you'll find all the Houſes abandon'd, and not one Inhabi<g ref="char:EOLhyphen"/>tant to be found. It is not eaſily to be imagined how it is poſſible, that a Country ſo populous and flouriſhing, ſhould in leſs than 80. <hi>years</hi> be ſo entirely ruined and diſpeopled: by this it is very apparent, <hi>that no Subjects are ſo unhappy, as thoſe that live under the Domination of the</hi> Clergy.</p>
+            </div>
+            <div type="remarks">
+               <pb n="13" facs="tcp:35113:6"/>
+               <head>Concerning the Eſtates of <hi>BOLOGNIA.</hi>
+               </head>
+               <p>IF the <hi>Popes</hi> had been able to have made themſelves Maſters of <hi>Bolognia,</hi> as they have done of <hi>Ferrara,</hi> they would thereby have reduced it to the ſame miſerable con<g ref="char:EOLhyphen"/>dition; but <hi>Bolognia</hi> hath always preſerved their Priviledges and the Civil Government, by means of the <hi>Gonfalonniers,</hi> under whom they are governed; They have the Right of ſending <hi>Embaſſadors</hi> to the <hi>Pope,</hi> who enjoy the ſame Prerogatives as do the Embaſſadors of the other free <hi>Princes</hi> and <hi>States:</hi> The <hi>Pope</hi> cannot confiſcate the Goods of any Subject of <hi>Bolognia</hi> for any Crime whatſoever. The great Miſchiefs which too frequently happen here, more than in other parts, are <hi>Aſſaſſina<g ref="char:EOLhyphen"/>tions</hi> and <hi>Murthers;</hi> thoſe that commit them fly for ſhelter to ſome of the Churches, as to an inviolable <hi>Aſylum,</hi> from whence the <hi>Legats</hi> themſelves cannot bring them to be Puniſh<g ref="char:EOLhyphen"/>ed; or perhaps they retire into the Country, into ſome Strong hold, or into the Territories of a Neighbouring <hi>Prince,</hi> where they are certainly ſecure, and there remain until the <hi>Legation</hi> of the then <hi>Cardinal</hi> be finiſhed, and afterwards make an agreement with the Suc<g ref="char:EOLhyphen"/>ceſſor, who for Money pardons them (having Power ſo to do) all the Crimes and Murthers
+<pb n="14" facs="tcp:35113:7"/> they have committed: In other reſpects the People of <hi>Bolognia</hi> are very happy, and live in great plenty, for that the Country is mighty fruitful; and they pay no Taxes to the <hi>Prince.</hi>
+               </p>
+            </div>
+            <div type="remarks">
+               <head>Remarks upon the Country of the <hi>Great Duke</hi> of <hi>TUSCANY.</hi>
+               </head>
+               <p>THere are in this Great <hi>Dukedome</hi> three conſiderable Cities, <hi>Florence, Piſa,</hi> and <hi>Sienna.</hi> All thoſe who have read the Hiſtory of <hi>Italy,</hi> do know, that <hi>Piſa</hi> was for<g ref="char:EOLhyphen"/>merly a very powerful <hi>Common-wealth,</hi> that it flouriſhed in Trade and Commerce, and that there were a great many wealthy Citi<g ref="char:EOLhyphen"/>zens belonging to it; There needs no other proof of this, than what we read, that upon a certain occaſion, a hundred of the Citizens equip'd each of them a <hi>Gally</hi> at their own Charges, which they maintained during all the War. The great Actions are well known which they have done in the <hi>Levant</hi> by their Fleets, and how they along time oppoſed the <hi>Duke</hi> of <hi>Florence,</hi> who at length ſubdued them by the Aſſiſtance of the <hi>Spaniſh</hi> Arms.</p>
+               <p>
+                  <hi>Piſa</hi> is one of the largeſt and moſt beauti<g ref="char:EOLhyphen"/>ful Cities of <hi>Italy;</hi> the Buildings are ſtately and fine; and ſo is one of their Churches,
+<pb n="15" facs="tcp:35113:7"/> which with its dependancies, is one of the fineſt in all <hi>Italy.</hi> The City is built upon the River of <hi>Arne,</hi> which divides it in the midſt; it is Navigable for Veſſels of a great burthen: and at <hi>Legorne,</hi> which is Twelve Miles di<g ref="char:EOLhyphen"/>ſtance, it falls into the Sea. It is one of the beſt ſcituated Towns in all <hi>Italy</hi> for Trade, with which it flouriſhed extreamly whilſt it was a <hi>Republick:</hi> at preſent not only the City, but the Country belonging to it, is wholly de<g ref="char:EOLhyphen"/>populated. Writers ſay, that there were formerly above one hundred and fifty Thou<g ref="char:EOLhyphen"/>ſand Inhabitants, whereas now there are not twelve Thouſand. The Graſs grows in moſt of the Places and Streets of the City, and moſt of the Houſes are deſerted, and lye void. I was my ſelf in a fair large Pallace, which was let for ſix Piſtoles <hi>per annum;</hi> the greateſt part of their Lands lye waſt, and the Air is very unhealthy in moſt parts, becauſe of the ſmall number of Inhabitants. The <hi>Duke</hi> of <hi>Florence</hi> thought there was no way to ſecure himſelf of this Great City, but by depopulating of it, and ruining the Trade, which rendred it ſo Potent, ſo that at preſent there is not any Trade there at all.</p>
+               <p>The City of <hi>Sienna</hi> was alſo formerly a very fine <hi>Common-wealth,</hi> and had in it many noble, rich, and powerful Families; but ſince that the <hi>Duke</hi> of <hi>Florence</hi> hath reduced it to his
+<pb n="16" facs="tcp:35113:8"/> Obedience, he hath ruined moſt of the No<g ref="char:EOLhyphen"/>bility and Gentry, many of them retiring into <hi>France,</hi> and into the Territories of ſome of the <hi>Princes</hi> of <hi>Italy.</hi>
+               </p>
+               <p>As to the City of <hi>Florence</hi> it ſelf, it is ex<g ref="char:EOLhyphen"/>treamly decayed to what it was ſince it came under the Government of the Houſe of <hi>Me<g ref="char:EOLhyphen"/>dicis.</hi> It is plain from the Hiſtory of <hi>Machia<g ref="char:EOLhyphen"/>vil,</hi> and other <hi>Italian</hi> Authors that lived in thoſe times, that it was three times more populous when it was a <hi>Republick,</hi> than it is now. The Great <hi>Duke</hi> keeping his Court and Reſidence there, one would think ſhould make the City flouriſh the more; yet it wants a great deal of that Luſter and Splendor it had when it was a <hi>Common-wealth.</hi>
+               </p>
+            </div>
+            <div type="remarks">
+               <head>Remarks upon the <hi>Temporal Government</hi> of the <hi>POPE.</hi>
+               </head>
+               <p>THere are certainly very few <hi>People,</hi> ſo mi<g ref="char:EOLhyphen"/>ſerable, as thoſe who live under the Dominion of the <hi>Pope:</hi> moſt of the <hi>States of Italy,</hi> and where there are the moſt Subſidies and Impoſitions, have not put any Tax upon <hi>Corn</hi> and <hi>Grain</hi> which make <hi>Bread,</hi> becauſe there is no Perſon, tho never ſo miſerable, that can ſubſiſt without it; there is that hu<g ref="char:EOLhyphen"/>manity and regard had to the <hi>People,</hi> in not
+<pb n="17" facs="tcp:35113:8"/> laying <hi>Taxes</hi> upon <hi>Bread,</hi> becauſe 'tis the com<g ref="char:EOLhyphen"/>mon Nouriſhment, and abſolutely neceſſary even for the moſt Indigent and Poor; tho Im<g ref="char:EOLhyphen"/>poſitions are laid without ſcruple upon <hi>Wine</hi> and other Merchandiſes, becauſe they are not ſo neceſſary as <hi>Bread:</hi> yet the <hi>Pope</hi> makes no ſcruple to lay very great Impoſitions upon <hi>Corn</hi> and <hi>Bread,</hi> throughout all his <hi>Dominions,</hi> except in thoſe places that have yet preſer<g ref="char:EOLhyphen"/>ved their Liberties. It was <hi>Donna Olimpia,</hi> that during the Pontificat of <hi>Innocent</hi> the X. began to put Taxes and Impoſts upon <hi>Corn,</hi> and made ſuch <hi>Laws,</hi> which have ruined the moſt part of the great Nobility and Gentry, that live under the <hi>Eccleſiaſtical Government,</hi> who had their Revenues conſiſting in <hi>Corn.</hi> All the <hi>Popes</hi> who have Reigned ſince <hi>Inno<g ref="char:EOLhyphen"/>cents</hi> time, have found ſuch a great advan<g ref="char:EOLhyphen"/>tage to themſelves by theſe Laws of <hi>Donna Olympia,</hi> that they have continued them ever ſince; and it is at preſent a very conſiderable part of the Eccleſiaſtical Revenue. The ſub<g ref="char:EOLhyphen"/>ſtance of which ſaid <hi>Law</hi> or Ordinance is this, <hi>That no Perſon whatſoever is ſuffered to ſell</hi> Corn <hi>to any Strangers; but all thoſe that have any, are obliged to ſell it at a price certain to the</hi> Ec<g ref="char:EOLhyphen"/>cleſiaſtical Chamber; which is not above one moiety of the real Value; and then the <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Chamber</hi> ſells it again at double the price. In <hi>Italy</hi> there is no perſon either
+<pb n="18" facs="tcp:35113:9"/> in City or Country, in the <hi>Popes Dominions,</hi> who is permitted to make their own <hi>Bread,</hi> but every one is obliged to buy it of the <hi>Ba<g ref="char:EOLhyphen"/>kers,</hi> who are appointed by the <hi>Chamber;</hi> in each <hi>Village</hi> and <hi>Burrough,</hi> there is but one <hi>Baker</hi> Eſtabliſhed by the <hi>Chamber</hi> to make and ſell <hi>Bread;</hi> the <hi>Baker</hi> is obliged to take the <hi>Corn</hi> of the <hi>Chamber</hi> at a certain price, and to make the <hi>Bread</hi> of ſuch a quality and weight, and to ſell it at a price certain. In the great Cities, as at <hi>Rome,</hi> there are very many <hi>Bakers,</hi> who are all obliged to buy a certain quantity of <hi>Corn</hi> of the <hi>Eccleſiaſtical Chamber</hi> for a whole <hi>Year</hi> to come, which they pay for before-hand, and give ten Crowns the <hi>Salme</hi> or meaſure, when at the ſame time the <hi>Chamber</hi> bought it of the parti<g ref="char:EOLhyphen"/>cular Perſons for five Crowns, at the begin<g ref="char:EOLhyphen"/>ning of the <hi>Year;</hi> all the <hi>Bakers</hi> are obliged to take the ſame quantity of <hi>Corn</hi> for the <hi>Year</hi> enſuing, altho ſometimes they have a great deal of the laſt <hi>Years Corn</hi> upon their hands, which they muſt deliver to the <hi>Cham<g ref="char:EOLhyphen"/>ber</hi> for five Crowns the <hi>Salme</hi> or Meaſure, and then the very ſame <hi>Corn</hi> is ſold them a<g ref="char:EOLhyphen"/>gain for Ten Crowns. I do not believe that there is any Country in the World, that draws more profit from their Subjects for <hi>Corn,</hi> than the <hi>Pope</hi> doth in his <hi>Dominions,</hi> which hath <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>een partly the Cauſe of the ruine of the <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical
+<pb n="19" facs="tcp:35113:9"/> Eſtate,</hi> ſince the Eſtabliſhment of the ſaid <hi>Law,</hi> which was about thirty Years ſince: the Country is unpeopled, and great part of the Lands lye void and uncultivated, becauſe it is not worth while to manure them when the greateſt advantage and profit, ari<g ref="char:EOLhyphen"/>ſing thereby, goes to the <hi>Pope.</hi> In travelling through the Eccleſiaſtical Territories in <hi>Ro<g ref="char:EOLhyphen"/>mania,</hi> and between <hi>Rome</hi> and <hi>Naples,</hi> there are vaſt quantities of Land unmanured. A Traveller paſſing through the Eſtate of a <hi>Ro<g ref="char:EOLhyphen"/>man Prince,</hi> told the Prince upon his return to <hi>Naples, He would if he pleaſed ſend him Husbandmen that ſhould Manure his Lands;</hi> thinking that it had been for want of La<g ref="char:EOLhyphen"/>bourers that the Land lay void and waſt: The Prince told him, <hi>That he did not want People to Cultivate his Lands; but becauſe they were obliged to Sell all their Corn and Grain to the Chamber at a very low Price, it would not quit coſt to Manure and Cultivate it.</hi>
+               </p>
+            </div>
+            <div type="remarks">
+               <pb n="20" facs="tcp:35113:10"/>
+               <head>Touching the Reduction of the Intereſt of Money Due by the <hi>MONTES</hi> at <hi>Rome</hi> from <hi>4.</hi> to <hi>3.</hi> per Cent.</head>
+               <p>EVery body almoſt knows what 'tis which in <hi>Italy,</hi> and eſpecially at <hi>Rome,</hi> they call the <hi>Montes;</hi> It is much like the Rents upon the Town-Houſe at <hi>Paris.</hi> The <hi>Popes</hi> having occaſion of Money, borrow great Sums of particular Perſons at 4 <hi>per cent.</hi> In<g ref="char:EOLhyphen"/>tereſt; This they call at <hi>Rome</hi> the Eſtabliſh<g ref="char:EOLhyphen"/>ment of the <hi>Monte,</hi> that is, the Creation of certain Officers, and the aſſignment of ſeve<g ref="char:EOLhyphen"/>ral Rents for the payment of thoſe who have lent Money to the <hi>Pope.</hi> The preſent <hi>Pope,</hi> finding the <hi>Chamber</hi> engaged to the Annual Payments of I know not how many Millions of <hi>Roman Crowns</hi> Intereſt, to thoſe that had Lent Money upon the <hi>Monte,</hi> re<g ref="char:EOLhyphen"/>ſolved in part to reduce and leſſen the great Sum of Money which the Intereſt amounted to, and having for this purpoſe raiſed ſeve<g ref="char:EOLhyphen"/>ral Milions of <hi>Roman Crowns,</hi> he acquainted thoſe that had Money upon the <hi>Monte,</hi> that they ſhould come and receive their principal Money, unleſs they would take 3 <hi>per cent.</hi> Intereſt, for the 4 <hi>per cent.</hi> which they for<g ref="char:EOLhyphen"/>merly received; whereupon there being re<g ref="char:EOLhyphen"/>ally
+<pb n="21" facs="tcp:35113:10"/> no Trade in all the <hi>Eccleſiaſtical</hi> Terri<g ref="char:EOLhyphen"/>tories, and the Lands worth nothing, and that the Eſtates of the Nobility were all Sold to a penny, all Perſons who had Money up<g ref="char:EOLhyphen"/>on the <hi>Monte,</hi> not knowing how to Imploy it to advantage elſewhere, let it there re<g ref="char:EOLhyphen"/>main, contenting themſelves with three <hi>per cent.</hi> inſtead of four <hi>per cent.</hi> which they had before. So that by this means every one concerned loſt a fourth part of their yearly Income, and the <hi>Chamber</hi> got I know not how many Milions of Crowns yearly by this Retrenchment of one <hi>per cent.</hi>
+               </p>
+               <p>It is almoſt incredible the Immenſe Sums the <hi>Pope</hi> hath raiſed by retrenching of ſo ma<g ref="char:EOLhyphen"/>ny ſuperfluous Expences, and extinguiſhing ſeveral Offices, to which great Salleries were paid by the <hi>Eccleſiaſtical Chamber,</hi> and by divers other means. Thoſe who are well in<g ref="char:EOLhyphen"/>formed in theſe matters, do for certain affirm, that all the Subſidies which the <hi>Pope</hi> hath re<g ref="char:EOLhyphen"/>mitted to the Emperour, and King of <hi>Poland,</hi> to carry on the War againſt the <hi>Turks,</hi> are not the thirtieth part of the Money which he hath Treaſured up; although likewiſe he hath pay'd many Debts of the <hi>Chamber,</hi> which were not very chargeable upon the <hi>Montes.</hi>
+               </p>
+               <pb n="22" facs="tcp:35113:11"/>
+               <p>I ought not here to omit relating, that the <hi>Inns,</hi> eſpecially in <hi>Tuſcany,</hi> in <hi>Romania,</hi> and between <hi>Rome</hi> and <hi>Naples,</hi> are very ſordid and incommodious; one may give a pretty good gueſs at the prodigious Wealth belong<g ref="char:EOLhyphen"/>ing to the Clergy in the Kingdom of <hi>Naples</hi> by the great quantity of Plate, Veſſels, and Statues of Silver in the Churches, and by the Riches and Magnificent Furniture of their Habitations, and Veſtments of the <hi>Prieſts.</hi> One may upon the whole Matter make this Important Reflection, That if the King of <hi>Spain</hi> doth not think of ſome Expedient, to hinder the <hi>Clergy</hi> from Increaſing their Eſtates in Lands, which they do daily, they will in a very little time become Maſters of the greateſt part of the Kingdom of <hi>Naples;</hi> for they are already poſſeſſed of more than the half of the Lands of that Kingdom, beſides the other vaſt profits they make continually under pretence of Service to the Church, for their <hi>Maſſes, Buildings, Burials, Marriages, Confeſſions,</hi> and by their <hi>Indulgences,</hi> and the <hi>Legacies</hi> left them by Will.</p>
+               <p>Tho theſe are Remarks made in haſt, yet they may be of uſe to the Author.</p>
+               <p>I know ſeveral very pleaſant Stories of the <hi>Jeſuits</hi> at <hi>Naples.</hi> The Prince of <hi>Salerme</hi>
+                  <pb n="23" facs="tcp:35113:11"/> gave them the Moiety of a great Houſe which he had at <hi>Naples,</hi> and thereupon an In<g ref="char:EOLhyphen"/>ſcription was Engraven in Capital Letters upon the Fronteſpiece of the Houſe, of the Donation thereof given to the <hi>Jeſuits</hi> by the ſaid <hi>Prince;</hi> within theſe few years the <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> have turn'd the <hi>Hieres</hi> of the Prince of <hi>Salerme</hi> out of poſſeſſion of the other Moiety of the ſaid Houſe, and have defaced the In<g ref="char:EOLhyphen"/>ſcription upon the Houſe; and all this they have done by Colour of Law and Juſtice. Upon the firſt Eſtabliſhment of the Society of <hi>Jeſuits,</hi> the <hi>Carthuſians</hi> of <hi>Naples,</hi> who are very Rich, voluntarily aſſigned them a yearly <hi>Penſion</hi> of ſeveral thouſand <hi>Ducats;</hi> but the <hi>Carthuſians</hi> perceiving that of late years, ſe<g ref="char:EOLhyphen"/>veral of the <hi>Jeſuits</hi> were grown mighty Rich, reſolved to withdraw the ſaid <hi>Penſion;</hi> the <hi>Jeſuits</hi> hereupon went to Law with them, and obtained Sentence, that the ſaid <hi>Penſion</hi> ſhould be continued. The <hi>Jeſuits</hi> have got a very conſiderable part of the Lands of the Nobility of the Kingdom of <hi>Naples.</hi> All the <hi>Religious,</hi> of what Order ſoever they be, who have Houſes at <hi>Naples,</hi> have the Priviledge of purchaſing all Houſes that are contiguous to them on the one ſide or the other, to the very end of the Street, in order to make their Houſes entire, and to ſtand alone like an <hi>Iſland;</hi> and for this purpoſe they have no
+<pb n="24" facs="tcp:35113:12"/> more to do, than only pay the Proprietor for his Houſe, not according to the preſent Value, but as it was laſt ſold, perhaps 50, 60, or 100 years ago; and ſo hath deſcended from Father to Son ſucceſſively to the perſon then in Poſſeſſion.</p>
+               <p>Many other very conſiderable Remarks might be made of the divers Tricks and Me<g ref="char:EOLhyphen"/>thods the Clergy of this Kingdom make uſe of to Wheedle and Trapan the <hi>Laity</hi> out of their <hi>Eſtates.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
